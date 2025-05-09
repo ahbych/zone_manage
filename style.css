@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  padding: 10px;
+}
+button {
+  margin: 2px;
+}
+.inactive {
+  opacity: 0.3;
+}
+.active {
+  opacity: 1.0;
+}
