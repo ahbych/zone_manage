@@ -1,5 +1,5 @@
 const zones = ['구역1', '구역2']; // 실제 zone 이름
-const baseUrl = "https://script.google.com/macros/s/AKfycbxw34OEzwWjsJ_MSHet43uNZVI376lKUuuGlAQ_fcevWrrmzhoBsBHuMJoO-cSeubFE/exec";
+const baseUrl = "https://script.google.com/macros/s/AKfycbxM7C3X46cVTIKVqjaWYJqAvnqud-AAn-0BBjUSK2yh0Grb6sanbxL1VLGPRoa_KPCo/exec";
 
 document.getElementById('zoneSelect').onchange = loadZoneData;
 
